@@ -34,12 +34,13 @@ $ npm start
 - jQuery
 - HTML
 - CSS
+- React
 - Google Maps API
 - FourSquare API
 
 **APIs**
 - This app uses the **Google Maps API**. Documentation can be found [here](https://developers.google.com/maps/documentation/)
-- This app also uses **FourSquare Developers API**. Check out the following link for more details[here](https://developer.foursquare.com/)
+- This app also uses **FourSquare Developers API**. Check out the following link for more details [here](https://developer.foursquare.com/)
 
 ### Reference materials
 - https://developers.google.com/maps/documentation/javascript/
