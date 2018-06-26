@@ -42,6 +42,6 @@ $ npm start
 - This app also uses **FourSquare Developers API**. Check out the following link for more details[here](https://developer.foursquare.com/)
 
 ### Reference materials
-https://developers.google.com/maps/documentation/javascript/
-https://developer.foursquare.com/
-https://www.w3schools.com/
+- https://developers.google.com/maps/documentation/javascript/
+- https://developer.foursquare.com/
+- https://www.w3schools.com/
